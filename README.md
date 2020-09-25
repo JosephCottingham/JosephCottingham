@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://wakatime.com/@JosephCottingham" title="🤔 What I've Been Doing" target="_blank">
     <div style="display: flex;">
-     <img src="https://wakatime.com/share/@85acdb22-40e6-4d58-a20e-fdc8783c9e96/aedbb426-f7a1-4611-b51f-fe735cb76666.svg" width="45%">
-     <img src="https://wakatime.com/share/@85acdb22-40e6-4d58-a20e-fdc8783c9e96/b8e85b45-f527-402d-8dd7-c7017f220c56.svg" width="45%">
+     <img src="https://wakatime.com/share/@85acdb22-40e6-4d58-a20e-fdc8783c9e96/aedbb426-f7a1-4611-b51f-fe735cb76666.svg" width="49%">
+     <img src="https://wakatime.com/share/@85acdb22-40e6-4d58-a20e-fdc8783c9e96/b8e85b45-f527-402d-8dd7-c7017f220c56.svg" width="49%">
     </div>
   </a>
 </p>
