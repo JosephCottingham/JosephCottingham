@@ -1,5 +1,5 @@
 ### Hi there 👋
-<figure><embed src="https://wakatime.com/share/@85acdb22-40e6-4d58-a20e-fdc8783c9e96/e46f2cbc-1c9d-4108-b7c0-633fdff588ac.svg"></embed></figure>
+### <figure><embed src="https://wakatime.com/share/@85acdb22-40e6-4d58-a20e-fdc8783c9e96/e46f2cbc-1c9d-4108-b7c0-633fdff588ac.svg"></embed></figure>
 
 <!--
 **JosephCottingham/JosephCottingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
