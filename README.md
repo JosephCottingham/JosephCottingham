@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
-  <a href="https://wakatime.com/@droxey" title="⏰ WakaTime: @droxey" target="_blank">
-     <img src="https://wakatime.com/share/@85acdb22-40e6-4d58-a20e-fdc8783c9e96/e46f2cbc-1c9d-4108-b7c0-633fdff588ac.png" width="60%">
+  <a href="https://wakatime.com/@JosephCottingham" title="🤔 What I've Been Doing" target="_blank">
+     <img src="https://wakatime.com/share/@85acdb22-40e6-4d58-a20e-fdc8783c9e96/aedbb426-f7a1-4611-b51f-fe735cb76666.svg" width="60%">
   </a>
 </p>
 <!--
