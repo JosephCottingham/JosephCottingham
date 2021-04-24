@@ -1,12 +1,12 @@
 
-<h2> Hi, I'm Joe Cottingham! <img src="" width="50"></h2>
-<img align='right' src="" width="230">
+<h2> Hi, I'm Joe Cottingham!</h2>
+<img align='right' src="https://github.com/JosephCottingham/JosephCottingham/blob/master/undraw_programming_2svr.svg" width="230">
 <p><em>Software Enginner at <a href="https://nth-solutions.com/">nth Solutions LLC</a>
 </br>Student At at <a href="https://www.makeschool.com/">Make School</a>
 </em></p>
 
 
-### <img src="" width="50"> What do I do?
+### <img src="https://github.com/JosephCottingham/JosephCottingham/blob/master/undraw_Code_thinking_re_gka2.svg" width="50"> What do I do?
 
 ```python
 joe = {
