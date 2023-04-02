@@ -2,7 +2,6 @@
 <h2> Hi, I'm Joe Cottingham!</h2>
 <img align='right' src="https://github.com/JosephCottingham/JosephCottingham/blob/master/undraw_programming_2svr.svg" width="230">
 <p><em>Software Enginner at <a href="https://nth-solutions.com/">nth Solutions LLC</a>
-</br>Student At at <a href="https://www.makeschool.com/">Make School</a>
 </em></p>
 
 
