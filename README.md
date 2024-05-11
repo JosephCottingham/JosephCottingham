@@ -5,5 +5,4 @@
 </em></p>
 
 
-### <img src="https://github.com/JosephCottingham/JosephCottingham/blob/master/undraw_Code_thinking_re_gka2.svg" width="200"> What do I do?
----
+<img src="https://github.com/JosephCottingham/JosephCottingham/blob/master/undraw_Code_thinking_re_gka2.svg" width="200">
